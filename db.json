@@ -459,7 +459,7 @@
       ]
     },
     {
-      "img": "https://res.cloudinary.com/dprw6oeba/image/upload/v1683931193/eba_qspmlz.jpg",
+      "img": "https://res.cloudinary.com/dprw6oeba/image/upload/f_avif,q_auto:eco/v1683931193/eba_qspmlz.avif",
       "name": "eba",
       "amount": 0,
       "id": 8,
@@ -467,7 +467,7 @@
       "category": "dinner",
       "categories": [
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/v1683931193/eba_qspmlz.jpg",
+          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/f_avif,q_auto:eco/v1683931193/eba_qspmlz.avif",
           "name": "Yellow Ega",
           "amount": 0,
           "id": 110,
@@ -493,7 +493,7 @@
           ]
         },
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/v1683987138/white_eba_tw57zi.jpg",
+          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/f_avif,q_auto:eco/v1683987138/white_eba_tw57zi.avif",
           "name": "White Ega",
           "amount": 0,
           "id": 111,
