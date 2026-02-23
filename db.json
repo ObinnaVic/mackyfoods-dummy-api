@@ -10,7 +10,7 @@
       "category": "breakfast",
       "categories": [
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_220/v1683987869/cookies_urvffa.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkTXwkP7mLLxhwXxHzER6xEzjsaO-FHakUwA&s",
           "name": "Cookies",
           "id": 118,
           "features": [
@@ -35,7 +35,7 @@
           ]
         },
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_253/v1683987945/biscuites_apjuoj.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZ1FKzGSUex97XtthU-6Jm8fF7JgEdiI3xw&s",
           "name": "Buscuites",
           "amount": 0,
           "id": 119,
@@ -72,7 +72,7 @@
       "category": "breakfast",
       "categories": [
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_275/v1683930163/pizza_fqxsjk.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKe64dGQqXuzACczrUWWQDk1YIgCsFvjiMDg&s",
           "name": "Cheese",
           "amount": 0,
           "id": 115,
@@ -98,7 +98,7 @@
           ]
         },
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_285/v1683987505/vegetable_yeliim.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaOd-yzw835koYdEr8v0ecT5lvreJgMrz76g&s",
           "name": "Vege",
           "amount": 0,
           "id": 116,
@@ -133,7 +133,7 @@
       "category": "launch",
       "categories": [
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_296/v1683986779/whiteYam_zgisia.avif",
+          "img": "https://i.ytimg.com/vi/LnfeYXsFi2Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDNZcmWUDIJXTfzqmoQKzA_qzS_BQ",
           "name": "Yam and Egg",
           "amount": 0,
           "id": 101,
@@ -159,7 +159,7 @@
           ]
         },
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683986852/porridge_utgygn.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRntFr5_h0pMyZDE3xusMwfxPsCsgArRKaDEg&s",
           "name": "Porridge",
           "amount": 0,
           "id": 102,
@@ -194,7 +194,7 @@
       "category": "launch",
       "categories": [
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683985484/white_ipzzhf.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgPJNDaDt6VgjMWEZVOX__CA8U9uAOO8VY2w&s",
           "name": "White Spag",
           "amount": 0,
           "id": 103,
@@ -220,7 +220,7 @@
           ]
         },
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683985431/jollof_uf0way.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGkPx9iZrKpV185JTkzS7ex2OuXgo0JAtnlg&s",
           "name": "Jollof Spag",
           "amount": 0,
           "id": 104,
@@ -257,7 +257,7 @@
       "category": "launch",
       "categories": [
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683984678/white_jpwjrd.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREvHFrE9dopoL4BtzH3Ora0CDZ3-3gkzB_dg&s",
           "name": "White Rice",
           "amount": 0,
           "id": 112,
@@ -283,7 +283,7 @@
           ]
         },
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683984990/jellof_kdorfm.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_IAuXn-90FRCnOoccQWxuvzV7Ge16qv-0PA&s",
           "name": "Jollof Rice",
           "amount": 0,
           "id": 113,
@@ -309,7 +309,7 @@
           ]
         },
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683984946/fried_eqwwnj.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywpuhBK9IiUv9q2QyvMc012IYN1dFtZCDEQ&s",
           "name": "Fried Rice",
           "amount": 0,
           "id": 114,
@@ -344,7 +344,7 @@
       "category": "launch",
       "categories": [
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683985699/fried_fe1q9t.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQafQoN9yZXV4459_QWbNnnNj_6FafdILoM4w&s",
           "name": "Fried Chicken",
           "amount": 0,
           "id": 105,
@@ -379,7 +379,7 @@
       "category": "dinner",
       "categories": [
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683986066/egusi_dwgdbn.avif",
+          "img": "https://lowcarbafrica.com/wp-content/uploads/2018/06/Egusi-Soup-IG-1.jpg",
           "name": "Egusi",
           "amount": 0,
           "id": 106,
@@ -405,7 +405,7 @@
           ]
         },
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683986120/okro_krtykk.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYkE0SyDuvVw4p_cYQoIZ_e9haApIwp5Ke-A&s",
           "name": "Okro",
           "amount": 0,
           "id": 108,
@@ -431,7 +431,7 @@
           ]
         },
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683986160/Ewedu_meujk1.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgYHkI-eYWLqJQA1uwSL-PKXjgry_GxSwIQ&s",
           "name": "Ewedu",
           "amount": 0,
           "id": 109,
@@ -467,7 +467,7 @@
       "category": "dinner",
       "categories": [
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/f_avif,q_auto:eco/v1683931193/eba_qspmlz.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwg5Av10RGhW0JZvOwwOzAQXsrLBDPKTI1TQ&s",
           "name": "Yellow Ega",
           "amount": 0,
           "id": 110,
@@ -493,7 +493,7 @@
           ]
         },
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/f_avif,q_auto:eco/v1683987138/white_eba_tw57zi.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZm6RjtSSPsth3A7BjG5xdYOA1qhcG8KtJA&s",
           "name": "White Ega",
           "amount": 0,
           "id": 111,
@@ -530,7 +530,7 @@
       "category":"launch",
       "categories": [
         {
-          "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683987670/fried_turkey_codumh.avif",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNeEtLDNI63Ooya7Hgio-QjQ-fN3BaFWWhdA&s",
           "name": "Fried Turkey",
           "amount": 0,
           "id": 117,
