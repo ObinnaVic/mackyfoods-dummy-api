@@ -63,7 +63,7 @@
       ]
     },
     {
-      "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_253/v1683987405/cheese_psck6a.avif",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YNVwJV-2IIK2-ZMOrNnfA0BU33gVgNX-bQ&s",
       "name": "pizza",
       "price": 70.99,
       "amount": 0,
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_285/v1683931955/yam_m9towk.avif",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFxxav8QUfoEtaGk34IJVypRNVmZBFYybMQ&s",
       "name": "yam",
       "id": 3,
       "button": false,
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683931744/spag_ludnww.avif",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHSBXY12Z_mSR6lzcSWnoxvSh_iRdGWqiIw&s",
       "name": "spag",
       "id": 4,
       "button": false,
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683984990/jellof_kdorfm.avif",
+      "img": "https://www.wholesomeyum.com/wp-content/uploads/2023/02/wholesomeyum-Easy-Fried-Rice-2.jpg",
       "name": "rice",
       "price": 65.99,
       "amount": 0,
@@ -337,7 +337,7 @@
       ]
     },
     {
-      "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683930574/chicken_mn88cx.avif",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ064rcjSh0XlM4dNb8nVQxOeKDphuhDhKfww&s",
       "name": "chicken",
       "id": 6,
       "button": false,
@@ -372,7 +372,7 @@
       ]
     },
     {
-      "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683986066/egusi_dwgdbn.avif",
+      "img": "https://lowcarbafrica.com/wp-content/uploads/2018/06/Egusi-Soup-IG-1.jpg",
       "name": "soup",
       "id": 7,
       "button": false,
@@ -459,7 +459,7 @@
       ]
     },
     {
-      "img": "https://res.cloudinary.com/dprw6oeba/image/upload/f_avif,q_auto:eco/v1683931193/eba_qspmlz.avif",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6ZJKkq9h8DQcq5F-WBw_q6kHSNY5io0v_A&s",
       "name": "eba",
       "amount": 0,
       "id": 8,
@@ -521,7 +521,7 @@
       ]
     },
     {
-      "img": "https://res.cloudinary.com/dprw6oeba/image/upload/c_scale,f_avif,q_auto:eco,w_270/v1683930427/turkey_uzvtaw.avif",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEl4jNDLIBKIbLfaVeF4YZRETlMITXuCxUqA&s",
       "name": "turkey",
       "price": 32.99,
       "amount": 0,
